@@ -14,7 +14,7 @@ function App() {
 
       <div className="card">
         <h2>Where to find me</h2>
-        <p>You can reach me at somewhere</p>
+        <p>You can reach me at somewher</p>
       </div>
     </div>
   );
