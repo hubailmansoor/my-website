@@ -14,7 +14,7 @@ function App() {
 
       <div className="card">
         <h2>Contact</h2>
-        <p>You can reach me at: you@email.com</p>
+        <p>You can reach me at: hubailmansoor@gmail.com</p>
       </div>
     </div>
   );
