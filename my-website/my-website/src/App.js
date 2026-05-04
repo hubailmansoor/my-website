@@ -9,7 +9,7 @@ function App() {
 
       <div className="card">
         <h2>About Me</h2>
-        <p>Write something about yourself here.</p>
+        <p>Doing nothing hits.</p>
       </div>
 
       <div className="card">
