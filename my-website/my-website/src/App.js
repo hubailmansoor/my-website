@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="container">
-      <h1>Hello, I'm Jack 👋</h1>
+      <h1>Hello, I'm Jalack 👋</h1>
       <p>Welcome to my website. This is React site!</p>
 
       <div className="card">
